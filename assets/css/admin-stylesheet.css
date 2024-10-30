@@ -1,0 +1,10 @@
+table.display_meta th{
+    
+}
+img.woo_bw_main_image{
+    width: 45% !important;
+}
+img.woo_bw_main_image_bw{
+    width: 45% !important;
+    margin-left: 10px;
+}
